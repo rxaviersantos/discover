@@ -43,10 +43,11 @@
      <tbody>
         <tr>
             <td>01</td>
-            <td><a href="01">Conectar </a></td>
+            <td><a href="https://github.com/rxaviersantos/estudos/tree/main/discover-rocketseat/certificados">Conectar </a></td>
             <td>14/02/23</td>
             <td align="center">
-            <a href="01"><img width="300px" src="https://user-images.githubusercontent.com/85380530/222017100-83754e59-be92-4d53-9890-451b9ad7af5a.png" /></a></td>
+            <a href="https://github.com/rxaviersantos/estudos/tree/main/discover-rocketseat/certificados">
+              <img width="300px" src="https://user-images.githubusercontent.com/85380530/222017100-83754e59-be92-4d53-9890-451b9ad7af5a.png" /></a></td>
         </tr>
         <tr>
             <td>02</td>
